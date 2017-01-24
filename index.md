@@ -1,7 +1,7 @@
 <script>
 $(document).ready(function(){
-  $('table.display').DataTable( {
-    paging: true,
+  $('schedule.display').DataTable( {
+    paging: false,
     stateSave: true,
     searching: true
     }
