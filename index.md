@@ -11,8 +11,6 @@ $(document).ready(function(){
 
 ## Welcome to BSides Tampa 2017
 
-
-
 <table id="schedule" class="display">
   <thread>
     <tr>
