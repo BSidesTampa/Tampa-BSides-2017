@@ -27,7 +27,7 @@ $(document).ready(function(){
     <th>Tampa HackerSpace</th>         
     <th>Lock Pick Village</th>    
     </tr>
-  </thead>
+  </thread>
    <tbody>
       <tr>
          <td>0730</td>
