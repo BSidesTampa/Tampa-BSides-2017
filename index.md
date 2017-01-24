@@ -1,14 +1,3 @@
-<script>
-$(document).ready(function(){
-  $('schedule.display').DataTable( {
-    paging: false,
-    stateSave: true,
-    searching: true
-    }
-    );
-    });
- </script>
-
 ## Welcome to BSides Tampa 2017
 
 <table id="schedule" class="display">
@@ -39,7 +28,7 @@ $(document).ready(function(){
          <td>0830</td>
          <td align="center" colspan="8">Greeting: - Discuss schedule, room locations, restroom locations, food/lunch service, career track </td>
       </tr>
-     <tr>
+      <tr>
       <td>1000</td>
       <td>Kat Fitzgerald : Honeypots and Live tdreat Intelligence</td>
     <td>Cameron Boozarjomehri : Private matters</td>
